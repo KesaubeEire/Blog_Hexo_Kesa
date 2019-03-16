@@ -30,7 +30,7 @@ menu:
   #   url: /custom
 
 # 你的头像url
-avatar: /img/avatar1.jpg
+avatar: /img/kesa_logo.jpg
 # avatar link
 avatar_link: /
 # 头像背景图
@@ -45,8 +45,8 @@ email: kesaubeeire@gmail.com
 color: '#3F51B5'
 
 # 页面标题
-tags_title: Tags
 archives_title: Archives
+tags_title: Tags
 categories_title: Categories
 
 # 文章截断
@@ -64,9 +64,9 @@ share: true
 
 # 是否开启打赏，关闭 reward: false
 reward:
-  title: 您的支持是我的荣幸<br>如您非要打赏请备注~
-  wechat: /img/wechat.jpg     #微信，关闭设为 false
-  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
+  title: 打赏不必看看LOGO
+  wechat: /img/wechat.png     #微信，关闭设为 false
+  alipay: /img/alipay.png     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
@@ -151,7 +151,7 @@ canonical: false
 since_year: 2019
 
 # 用户页面中作者相关的描述性文字，如不需要设为 false
-about: 用户页面中作者相关的描述性文字，如不需要设为 false
+about: true 
 
 # “不蒜子”访问量统计，详见 http://ibruce.info/2015/04/04/busuanzi/
 visit_counter:

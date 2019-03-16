@@ -3,6 +3,8 @@ title: DS|统计学习方法(一)
 date: 2019-03-16 19:42:57
 tags: ML
 categories: Data Science
+comments: false     # 禁用评论，可选，默认开启
+reward: true       # 禁用打赏，可选，默认开启
 ---
 
 拜读先贤的名著
