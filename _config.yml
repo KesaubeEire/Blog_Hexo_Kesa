@@ -8,8 +8,10 @@
 #    url: /about       链接，绝对或相对路径，必须。
 #    target: _blank    是否跳出，省略则在当前页面打开
 
+# 使用主题
 theme: indigo
 
+# 网站定义
 title: Kesa
 subtitle: 大把时间迷茫 几个瞬间成长
 description: All Day Dawn
@@ -17,3 +19,29 @@ keywords: Kesa
 author: KesaubeEire
 # email: your email
 url: your site url
+
+# Live2d宠物~赛高~
+live2d:
+  enable: true #是否允许出现
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  model:
+    use: live2d-widget-model-shizuku #模型名称
+    scale: 1
+    hHeadPos: 0.5
+    vHeadPos: 0.618
+  display:
+    superSample: 2
+    width: 150
+    height: 300
+    position: right # 左侧还是右侧
+    hOffset: 0
+    vOffset: -20 # 离底部距离
+  mobile:
+    show: false # 手机客户端是否可见，推荐不可见，不然会影响阅读
+    scale: 0.5
+  react:
+    opacityDefault: 0.7
+    opacityOnHover: 0.2
