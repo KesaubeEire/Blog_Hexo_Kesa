@@ -26,9 +26,6 @@ categories:
 - 好不容易搞成的Netlify配置
 - 这个漂亮的主题和配置
 - [右键一键式提交腾讯云并返回链接](https://www.xiebruce.top/17.html)
-
-# 即将动工
-
 - [个性化设置](http://dugblog.coding.me/Hexo/20180620-hexo-private-customization.html)
     - 页面点击小东西
     - 看板娘
