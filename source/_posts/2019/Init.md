@@ -1,8 +1,8 @@
 ---
 title: Init
-tags: Useless
+tags: Init
 date: 2019-03-15
-categories: Guess
+categories: Useless
 comments: false # 禁用评论，可选，默认开启
 reward: true # 禁用打赏，可选，默认开启
 ---
