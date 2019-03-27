@@ -1,5 +1,5 @@
 ---
-8888title: DS|统计学习方法(二)
+title: DS|统计学习方法(二)
 date: 2019-03-23
 tags: ML
 categories: Data Science
