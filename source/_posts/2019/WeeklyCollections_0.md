@@ -17,7 +17,7 @@ categories:
 
 模仿(或者叫剽窃)[阮一峰](http://www.ruanyifeng.com)老师的每周分享  
 一定会放出来源和出处  
-本期all from 阮一峰老师的每周总结.
+本期 all from 阮一峰老师的每周总结.
 
 ```Go
 - 阮一峰老师的每周分享总结帖
@@ -31,20 +31,21 @@ categories:
 ```
 
 <!-- more -->
+
 ### [阮一峰老师的每周分享总结帖](https://wanmaoor.github.io/ryfWeekly/)
 
 这个东西太爆炸了  
-我基本上就指望这个东西过活了  
+我基本上就指望这个东西过活了
 
 也许阮一峰老师的一些技术思想和教程有一定的偏差  
 但是他个人对整个华语编程界的贡献是很大的  
 他的教程给无数人带来方便  
 激励了无数人开启博客式的编程生涯  
-已经是个值得尊重的人了  
+已经是个值得尊重的人了
 
 更遑论阮一峰老师的思想之高和阅读之深广  
-在泛IT领域的著作兼译作都有成就  
-真的是一个活出了时代精神的程序员榜样  
+在泛 IT 领域的著作兼译作都有成就  
+真的是一个活出了时代精神的程序员榜样
 
 ### 在线 IDE
 
@@ -72,7 +73,7 @@ categories:
 
 是一个全英文的 Hacker 入门指导.  
 有看起来丰富的资源和选项  
-但是我觉得毕竟是英文理解还是不够舒服  
+但是我觉得毕竟是英文理解还是不够舒服
 
 <center>![Hacker Tools](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/27/5aabc9f184d8a7e049590746989d7eff.jpg)</center>
 
@@ -80,15 +81,13 @@ categories:
 
 ![Micro8](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/27/4854b7b38828eef455fa523f41c3ed9e.jpg)
 
-### MarkDown转微信小程序
+### MarkDown 转微信小程序
 
 这是一个非常可爱的项目  
 这个需求我觉得是一个程序员很有可能面临的需求  
 有大佬搞定那当然是极好的
 
 <center>![微信公众号排版编辑器.jpg](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/28/e2e91d87a84d00314faa05818b38f33e.jpg)</center>
-
-
 
 ### 可视化算法
 
@@ -103,18 +102,19 @@ categories:
 ![LeetCode Animation All in One](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/27/389eb3d2b54ecd31ea16ef0f382d5fc9.jpg)
 
 作者的宏图大志值得学习~
-### Shell相关语句查询解释
+
+### Shell 相关语句查询解释
 
 #### 1.[ExplainShell.com](https://www.explainshell.com/)
 
 这个是个英文的复杂语句解释  
-可以解释长长的复杂shell语句  
+可以解释长长的复杂 shell 语句  
 并针对每个 -x --xx 等进行解释  
-基本上就是一个man和 -help的集合应用  
+基本上就是一个 man 和 -help 的集合应用
 
 <center>![explainshell](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/27/015dc13a841e37a9473e52221b2186c0.jpg)</center>
 
-#### 2.Linux小程序
+#### 2.Linux 小程序
 
 ### 图形学小入门
 
@@ -123,29 +123,29 @@ categories:
 一个看起来比较入门但是我觉得非常值得我去看的网站  
 应该是比起我的[图形学圣经](https://learnopengl-cn.github.io/)一样有价值的教程
 
-### Java相关
+### Java 相关
 
 #### 1. [MyPerf4J](https://github.com/LinShunKang/MyPerf4J)
 
-这是一个Java的可视化监控库
+这是一个 Java 的可视化监控库
 
 ![MyPerf4J](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/27/e0d3afb89bff6b3942dad4301bc63411.jpg)
 
-#### 2. [为这一个功能下IDEA](http://blog.fiftykg.com/tools/%E5%B0%B1%E4%B8%BA%E4%BA%86%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B9%9F%E8%A6%81%E4%B8%8B%E8%BD%BD%E4%B8%80%E4%B8%AAIDEA%EF%BC%81.html)
+#### 2. [为这一个功能下 IDEA](http://blog.fiftykg.com/tools/%E5%B0%B1%E4%B8%BA%E4%BA%86%E8%BF%99%E4%B8%AA%E5%8A%9F%E8%83%BD%E4%B9%9F%E8%A6%81%E4%B8%8B%E8%BD%BD%E4%B8%80%E4%B8%AAIDEA%EF%BC%81.html)
 
-Jetbrain的IDEA出的一个java的UML  
+Jetbrain 的 IDEA 出的一个 java 的 UML  
 非常之漂亮.  
-看到这个我惊了  
+看到这个我惊了
 
 <center>![IDEA](http://image.fiftykg.com/blog/android/idea_diagram/WX20190124-102121%402x.png)</center>
 
+想到了我和文杰当时找到的一个叫 understand 的 C#UML 类图
 
-想到了我和文杰当时找到的一个叫understand的C#UML类图  
 <center>![understand](http://kesa-hexo-1256284069.cos.ap-beijing.myqcloud.com/2019/03/28/ba9622f7e18ab5f810db92135e466a2b.jpg)</center>
 
 也是一个很棒的软件啦  
-但是看到JetBrain出的东西一定要搞一下  
-JetBrain在我心里的地位真的是很高  
+但是看到 JetBrain 出的东西一定要搞一下  
+JetBrain 在我心里的地位真的是很高  
 教育免费产品随便用 各种工具既好看又效率  
 真的是一家非常务实而有气质的公司  
-是我的目标没错了  
+是我的目标没错了
