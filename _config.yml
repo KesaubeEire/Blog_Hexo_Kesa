@@ -45,3 +45,8 @@ live2d:
   react:
     opacityDefault: 0.7
     opacityOnHover: 0.2
+
+deploy:
+  type: git
+  repo: git@github.com:jiji262/jiji262.github.io.git
+  branch: master
