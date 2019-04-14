@@ -25,5 +25,3 @@ categories:
 走出来  
 拥抱自己  
 GTMD!
-
-
