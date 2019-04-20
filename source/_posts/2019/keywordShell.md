@@ -18,6 +18,8 @@ categories:
 
 # 命令翻车
 
+## TODO: getopt 和 getopts
+
 ## 逐行读取注意
 
 当我使用逐行读取这个功能时  
@@ -42,7 +44,43 @@ while read line;do
 done <xxx.txt
 ```
 
-## TODO:getopt和getopts
+## linux 下文件夹的复制、覆盖以及确认问题解决
+
+正常我们使用的`cp`  
+其实在`alias`中已经被变掉了(其实我的 zsh 并没有,但是 bash 里有的):
+
+```bash
+$ alias | grep cp
+alias cp='cp -i'
+```
+
+> -i 即交互的缩写方式,  
+> 也就是在使用 cp 命令作文件覆盖操作之前,系统会要求确认提示.  
+> 这个本来是系统的一个保险措施.  
+> 如果有很多文件要复制,觉得一个一个输入 y 确认麻烦的话,可以使用如下方法解决:
+> `\cp -f $from.txt $to.txt`  
+> 只是在命令前加了一个反斜杠`\`，这样就不会再次确认了，而且只在命令中起作用比较好
+
+## 文件重定向保留换行符
+
+重点在后面的 `| sed '\$G'`上
+
+```bash
+echo $( xxx ) | sed '\$G' > xxx.txt
+```
+
+## 有关重复行
+
+```bash
+# 去除重复行
+sort file |uniq
+# 查找非重复行
+sort file |uniq -u
+# 查找重复行
+sort file |uniq -d
+# 统计
+sort file | uniq -c
+```
 
 # 命令词汇
 
@@ -51,8 +89,10 @@ done <xxx.txt
 常规命令:输出从 1 到 n 的整数数列
 
 ```shell
-$ seq 3
+$ seq n
 1
 2
 3
+...
+n
 ```
