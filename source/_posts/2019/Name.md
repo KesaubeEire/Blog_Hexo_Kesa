@@ -2,16 +2,16 @@
 title: Call My Name
 comments: false
 reward: true
-date: 2019-05-29 19:37:47
+date: 2019-10-13 10:10:10
 tags:
     - Strange Life
 categories:
     - Useless
 ---
 
-```
-- 无心思考生活
-- 发现自己检讨能力贼强
+```markdown
+-   无心思考生活
+-   发现自己检讨能力贼强
 ```
 
 <!-- more -->
